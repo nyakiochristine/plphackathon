@@ -4,14 +4,17 @@
 
 ### It is a description of my website application
 
+
 ## Table of Content
 
 + [Description](#description)
 + [Installation Requirement](#Installation)
++ [Erd diagram ] (#erd_diagram)
 + [Technology Used](#technology-used)
 + [Reference](#reference)
 + [License](#licence)
 + [Author's Info](#author-info)
+
 
 
 ## Description
@@ -19,6 +22,7 @@
 {This is a web application project for Taifa Travels. It contains the features for a travel customer to utilise.}
 
 ## Setup/Installation
+
 
 ### Requirements
 
@@ -58,13 +62,13 @@
 *HTML-which was used to build structure of the pages
 *CSS-which was used to style the pages
 
-+ CSS - which was used to style the landing page.
+
 
 ## License
 
 MIT License
 
-Copyright (c) [2022] [Christine Mwangi]
+Copyright (c) [2024] [Christine Mwangi]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -86,6 +90,6 @@ SOFTWARE.
 
 ## Author's Info
 
-Email address - (christine.mwangi@student.moringaschool.com)
+Email address - (christinemwangi368@gmail.com)
 [go back to the top]
 (# TAIFA TRAVELS)
