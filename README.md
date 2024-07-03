@@ -9,7 +9,7 @@
 
 + [Description](#description)
 + [Installation Requirement](#Installation)
-+ [Erd diagram ] (#erd_diagram)
++ [Erd Diagram](#Erd-diagram)
 + [Technology Used](#technology-used)
 + [Reference](#reference)
 + [License](#licence)
