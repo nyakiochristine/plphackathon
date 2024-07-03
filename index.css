@@ -122,40 +122,7 @@ body {
     padding: 20px;
   }
 
-  /*media queries*/
-  @media (min-width: 200px) and (max-width: 480px ) {
-	header h1 {
-		margin-top: 0;
-		padding: .25em;
-		text-align: center;
-	}
-	nav {
-		font-size: 1.3em;
-		margin-right: 2.9em;
-		margin-left: 2.9em;
-		padding: 0;
-		text-align: center;
-		text-decoration: none;
-	}
-
-	nav ul {
-		margin: 0;
-		padding: .10em;
-	}
-
-	nav li {
-		background-color: rgba(148, 187, 255, 1.0);
-		border-radius: 1em;
-		margin-top: 1em;
-		padding: .60em;
-		list-style: none;
-	}
-
-	nav a {
-		padding: 1em;
-		text-decoration: none;
-	}
-}
+  
 
 
 /* Small screens */
@@ -193,7 +160,7 @@ body {
       margin-bottom: 40px;
     }
   }
-  
+
   
   /* Medium screens */
   @media (min-width: 768px) and (max-width: 991px) {
